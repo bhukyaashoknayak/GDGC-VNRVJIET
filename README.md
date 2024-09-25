@@ -19,7 +19,11 @@ Uses a fake online store API to fetch product data.
 
 #Technologies Used
 ->HTML
+
 ->CSS
+
 ->JavaScript
+
 ->Font Awesome (for icons)
+
 ->Fetch API (for retrieving data)
