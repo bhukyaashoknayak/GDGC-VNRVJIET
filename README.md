@@ -18,6 +18,7 @@ Uses a fake online store API to fetch product data.
 
 
 #Technologies Used
+
 ->HTML
 
 ->CSS
